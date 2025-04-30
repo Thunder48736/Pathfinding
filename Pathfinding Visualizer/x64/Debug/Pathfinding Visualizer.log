@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\Thunder\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Main.cpp(22,22): warning C4566: character represented by universal-character-name '\u015A' cannot be represented in the current code page (1251)
+C:\Users\Thunder\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Main.cpp(22,22): warning C4566: character represented by universal-character-name '\u017C' cannot be represented in the current code page (1251)
+C:\Users\Thunder\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Main.cpp(24,22): warning C4566: character represented by universal-character-name '\u017C' cannot be represented in the current code page (1251)
+C:\Users\Thunder\source\repos\Pathfinding Visualizer\Pathfinding Visualizer\Main.cpp(24,22): warning C4566: character represented by universal-character-name '\u015B' cannot be represented in the current code page (1251)
+  Pathfinding Visualizer.vcxproj -> C:\Users\Thunder\source\repos\Pathfinding Visualizer\x64\Debug\Pathfinding Visualizer.exe
