@@ -1,7 +1,5 @@
 # Simple Pathfinding Visualizer
 
-Projekt konsolowy napisany w języku C++, który demonstruje działanie algorytmów wyszukiwania ścieżek (BFS i DFS) na dwuwymiarowej siatce. Program umożliwia wizualizację procesu znajdowania drogi od punktu startowego do końcowego, z uwzględnieniem przeszkód.
-
 ## Co zawiera projekt
 
 - Implementacja siatki jako dwuwymiarowego wektora `Node` z informacjami o położeniu, stanie (ściana, odwiedzony, część ścieżki).
